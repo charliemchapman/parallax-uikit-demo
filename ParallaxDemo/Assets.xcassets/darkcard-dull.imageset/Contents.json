@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "darkcard-dull.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
